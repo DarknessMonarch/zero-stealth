@@ -1,6 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+👋,+I'm+penguin+...)](https://git.io/typing-svg)
-<h3 align="center"> A developer and designer</h3>
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+👋,+I'm+collins+a+developer+and+designer...............)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nagisa2&label=Profile%20views&color=0e75b6&style=flat" alt="nagisa2" /> </p>
 
@@ -57,9 +55,9 @@ Docker            ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀�
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zero-stealth&theme=dark&show_icons=true&locale=en" alt="user" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zero-stealth&show_icons=true&locale=en&layout=compact&theme=dark" alt="user" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zero-stealth&show_icons=true&locale=en&layout=compact&theme=light" alt="user" /></p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=zero-stealth&theme=dark)](https://github.com/zero-stealth/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=zero-stealth&theme=light)](https://github.com/zero-stealth/github-profile-trophy)
 
 
 
