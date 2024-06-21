@@ -1,6 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+👋,+I'm+collins+a+developer+and+designer...............)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+👋,...............)](https://git.io/typing-svg)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nagisa2&label=Profile%20views&color=0e75b6&style=flat" alt="nagisa2" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nagisa2&label=Profile%20views&color=0e75b6&style=flat" alt="darkness" /> </p>
 
 ## ##
 
